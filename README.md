@@ -24,7 +24,7 @@ RemoverVeiculo(placa: string, horas: int): Verifica se o veículo com a placa fo
 
 ListarVeiculos(): Lista todos os veículos presentes no estacionamento. Se não houver nenhum, exibe a mensagem "Não há veículos estacionados".
 
-##Menu Interativo
+## Menu Interativo
 
 Implementação de um menu interativo com as seguintes opções:
 
@@ -33,7 +33,7 @@ Remover veículo
 Listar veículos
 Encerrar
 
-##Como Usar
+## Como Usar
 
 <code>git clone https://github.com/seu-usuario/nome-do-repositorio.git</code>
 
